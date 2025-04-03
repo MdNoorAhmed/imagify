@@ -1,7 +1,6 @@
 # Text-to-Image AI Generator (MERN Stack SaaS Application)
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://your-frontend-url.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers)
+
 
 A full-stack SaaS application that converts text prompts into AI-generated images using **Clipdrop API**, React.js, and Node.js. Includes user authentication, credit-based payment system, and image management.
 
